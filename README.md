@@ -8,6 +8,7 @@ Unsplash, Pexels, Undraw, DrawKit, freepik, and Pixabay — Free images, photos,
 Loading.io — Free animated, static spinners, progress bar, backgrounds, and much more
 Lottie Files — High-quality, interactive open-source animation files
 Ionicons, icons8, Icones, flaticon, and IcoFont — rich resources containing different icons
+
 && Tools
 
 Many prominent developers have created excellent, crazy tools to boost development. These are some of them:
@@ -17,6 +18,8 @@ Clippy — Create complex shapes in CSS using clip-path property
 Web Code Tools — One Platform with many solutions. Generates box shadows, gradients, meta tags, elements, etc.
 Haikei — Generates unique SVG design assets
 Transform — A polyglot web converter
+
+
 && Challenges
 
 The developer’s life is a life of overcoming challenges (& bugs, haha!). To keep up with trends, we have to challenge ourselves constantly. For that, use:
@@ -25,6 +28,8 @@ CSS Battle — A battleground to improve and tighten CSS skills
 LeetCode, HackerRank, Exercism — Platforms for Data Structure & Algorithms practice
 Frontend Mentor & Codewell — Develop, practice & compete to code a frontend website from its design file
 FreeCodeCamp — Learn and complete projects to achieve certifications for free
+
+
 && Hosting
 
 Want to share your website with the entire world? Check out these free hosting services:
@@ -34,6 +39,8 @@ Netlify
 Glitch & Codepen
 GitHub Pages
 Firebase & Supabase
+
+
 && Guides
 
 Valuable cheat sheets, tutorials on tech stuff, and more.
